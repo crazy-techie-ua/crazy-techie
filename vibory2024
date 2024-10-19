@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Передвиборча кампанія</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f0f0;
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            background-color: white;
+            padding: 20px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            text-align: center;
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+            border-radius: 10px;
+        }
+        h1 {
+            color: #2a9d8f;
+        }
+        p {
+            font-size: 18px;
+            line-height: 1.6;
+        }
+        ul {
+            list-style: none;
+            padding: 0;
+        }
+        ul li {
+            background-color: #e9c46a;
+            margin: 10px 0;
+            padding: 10px;
+            border-radius: 5px;
+        }
+        footer {
+            margin-top: 20px;
+            color: #264653;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <h1>Голосуй за мене — майбутнє вже тут!</h1>
+        <img src="your-photo-path.jpg" alt="Фото виборця">
+        <p>Дорогі громадяни, настав час серйозних змін! І тільки я можу їх вам запропонувати. Ви втомилися від порожніх обіцянок та невиконаних планів? Годі! Я тут, щоб змінити все і одразу, починаючи з найголовнішого — турботи про наших дітей!</p>
+        <h2>Мої обіцянки:</h2>
+        <ul>
+            <li>Підвищення виплат на дітей!</li>
+            <li>Памперси по 5 гривень!</li>
+            <li>Іграшки в лізинг!</li>
+            <li>Сісясті няні кожній дитині!</li>
+        </ul>
+        <p>"Майбутнє за нами — з памперсами, іграшками та найкращими няньками!"</p>
+        <footer>Автор кампанії — Найкращий кандидат, 2024</footer>
+    </div>
+
+</body>
+</html>
